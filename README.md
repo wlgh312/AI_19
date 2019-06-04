@@ -5,4 +5,4 @@
 * Tensorflow
 * Keras
 * CNN
-![keras](./keras.png)
+![keras](C:\Users\wlgh3\repos\AI_19\keras.png)
